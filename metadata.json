@@ -1,0 +1,5 @@
+{
+  "name": "WineGuessr",
+  "description": "A game inspired by GeoGuessr, but for wines. Users can upload a list of wines or generate one with AI, then guess the origin of each wine on a world map to score points based on proximity.",
+  "requestFramePermissions": []
+}
