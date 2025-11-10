@@ -21,8 +21,8 @@ const App: React.FC = () => {
   
   const [isMapScriptLoaded, setMapScriptLoaded] = useState(false);
   const [mapScriptError, setMapScriptError] = useState(false);
-
-  const apiKey = "AIzaSyA480jvUe2ZB87av4y1gaVLrlZzd713A98";
+  //vibecode is fun until it leaks your api key
+  const apiKey = "goddammit gemini -> has been rotated";
 
   // --- Multiplayer State ---
   const [room, setRoom] = useState<Room | null>(null);
